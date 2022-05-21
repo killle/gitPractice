@@ -1,2 +1,3 @@
 like feature
 싫어요 기능
+찜하기 기능
